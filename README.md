@@ -4,7 +4,7 @@ A Django REST API that calculates optimal fuel-efficient routes with cost-optimi
 
 ## 🎯 Demo Video
 
-**[Loom Video Demo (5 min)](YOUR_LOOM_LINK_HERE)**
+**[Loom Video Demo (5 min)](https://www.loom.com/share/e42224e0a3ae47cbbd99799d1f2f2556)**
 
 ## ✨ Features
 
