@@ -1,5 +1,5 @@
 # route_api/management/commands/load_fuel_data.py
-# FINAL VERSION - Replace your current file with this
+
 
 from django.core.management.base import BaseCommand
 from route_api.models import FuelStation
